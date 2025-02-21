@@ -1,6 +1,0 @@
-###
-
-GET http://localhost:5000/api/product/65da436923c4208dcb01dffc
-
-###
-GET http://localhost:5000/api/user/cart/65d9315d3c44da50e2558595
