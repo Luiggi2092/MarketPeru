@@ -1,7 +1,7 @@
 pages:
   stage: deploy
   script:
-    - mv build public  # Mueve la carpeta build a public
+    - mv build docs  # Mueve la carpeta build a public
   artifacts:
     paths:
-      - public
+      - docs
